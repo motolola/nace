@@ -1,0 +1,12 @@
+{
+  "orderNumber": 12346,
+  "level": 2,
+  "code": 67,
+  "parent": "Parent",
+  "description": "I am a description",
+  "thisItemIncludes": "Includes",
+  "thisItemAlsoIncludes": "also Includes",
+  "rulings": "Rulings",
+  "thisItemExcludes": "This is items",
+  "referenceTpIsicRev4": "Reference"
+}
